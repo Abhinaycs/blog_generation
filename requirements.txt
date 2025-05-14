@@ -1,0 +1,12 @@
+# streamlit
+# openai
+# python-dotenv
+# streamlit==1.33.0
+# ollama==0.1.6
+
+# streamlit
+# requests
+streamlit
+openai>=1.0.0
+
+
